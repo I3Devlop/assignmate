@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Sitemap: https://example.com/sitemap.xml
+
+Sitemap: https://CLIENT_DOMAIN_PLACEHOLDER/sitemap.xml
